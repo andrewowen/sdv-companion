@@ -1,0 +1,12 @@
+.sdv-search {
+	text-align: center;
+	background-color: white;
+	padding-top: 1px;
+	padding-bottom: 25px;
+
+}
+
+.sdv-search-results {
+	padding: 20px;
+	background-color: none !important;
+}
